@@ -5,12 +5,27 @@
 - 📫 How to reach me **furkan_hkn@hotmail.com**
 
 ## 🧠 Know / Using
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/symfony/symfony-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/phpstorm/phpstorm-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="40" / <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" width="40" height="40" /> <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" width="40" height="40" /> <img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" width="40" height="40" /> <img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="40" /> </p>
+<p align="left">
+  <img src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/master/topics/symfony/symfony.png?raw=true" height="40" /> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/phpstorm/phpstorm-plain-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/master/topics/html/html.png?raw=true" height="40" />
+  <img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="40" />
+  <img src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/master/topics/php/php.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" width="40" height="40" /> 
+  <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" width="40" height="40" /> 
+  <img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" width="40" height="40" /> 
+  <img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="40" /> 
+</p>
 
 ## 📚 Learning
   <p>
 <img src="https://github.com/github/explore/blob/master/topics/go/go.png?raw=true" height="40" />
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/
+  <img src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true" height="40" />
   </p>
   
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=furkanhakan&show_icons=true" alt="furkanhakan" /> </p>
