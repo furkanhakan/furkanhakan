@@ -6,26 +6,26 @@
 
 ## 🧠 Know / Using
 <p align="left">
-  <img src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true" height="40" /> 
-  <img src="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true" height="40" /> 
-  <img src="https://github.com/github/explore/blob/master/topics/symfony/symfony.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/main/topics/symfony/symfony.png?raw=true" height="40" /> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/phpstorm/phpstorm-plain-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="40" /> 
-  <img src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" height="40" /> 
-  <img src="https://github.com/github/explore/blob/master/topics/html/html.png?raw=true" height="40" />
-  <img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="40" />
-  <img src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png?raw=true" height="40" /> 
-  <img src="https://github.com/github/explore/blob/master/topics/php/php.png?raw=true" height="40" /> 
-  <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" width="40" height="40" /> 
-  <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" width="40" height="40" /> 
-  <img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" width="40" height="40" /> 
-  <img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true" height="40" />
+  <img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true" height="40" />
+  <img src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/main/topics/php/php.png?raw=true" height="40" /> 
+  <img src="https://github.com/github/explore/blob/main/topics/git/git.png?raw=true" width="40" height="40" /> 
+  <img src="https://github.com/github/explore/blob/main/topics/github/github.png?raw=true" width="40" height="40" /> 
+  <img src="https://github.com/github/explore/blob/main/topics/linux/linux.png?raw=true" width="40" height="40" /> 
+  <img src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png?raw=true" height="40" /> 
 </p>
 
 ## 📚 Learning
   <p>
-<img src="https://github.com/github/explore/blob/master/topics/go/go.png?raw=true" height="40" />
-  <img src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true" height="40" />
+<img src="https://github.com/github/explore/blob/main/topics/go/go.png?raw=true" height="40" />
+  <img src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png?raw=true" height="40" />
   </p>
   
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=furkanhakan&show_icons=true" alt="furkanhakan" /> </p>
